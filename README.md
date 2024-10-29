@@ -1,3 +1,9 @@
+Este projeto é um projeto simples de single page application que usa a api OMDb(https://www.omdbapi.com) para que o usuário possa buscar por  filmes e séries e dar uma nota para aqueles que ele já assistiu, salvando essa informação.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
